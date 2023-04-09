@@ -32,7 +32,7 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 
 ## Program:
 ### Developed By   :Deepika J
-### Register Number:21222123
+### Register Number:212221230016
 </br>
 
 ### 1. Smoothing Filters
